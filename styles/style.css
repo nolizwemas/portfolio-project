@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #6c63ff;
+    --primary-color: #fe0dae;
     --heding-font-family: "Playfair Display", serif;
     --default-font-family: "Poppins", sans-serif;
     --secondary-color: #f9f7fe;
@@ -130,7 +130,7 @@ p {
 }
 
 .logo {
-    max-height: 40px;
+    max-height: 100px;
 }
 
 nav {
